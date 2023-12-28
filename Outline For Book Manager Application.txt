@@ -1,0 +1,16 @@
+Book Manager Application
+
+Basic Features:
+- add books to list (need: title + author | optional: description, version, genre, image of book cover
+- when add book user rates how badly they want to read it 
+
+Classes will need:
+-book class w/ listed attributes
+	*class must define how books will be compared (compareTo method)
+
+
+Later Features:
+-computer reading description aloud 
+-finding rating for the book, gives a recommendation for this 
+-finding similar books 
+-adding image to cover of book
